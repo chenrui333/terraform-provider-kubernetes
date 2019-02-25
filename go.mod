@@ -46,7 +46,7 @@ require (
 	github.com/pquerna/otp v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/stoewer/go-strcase v1.0.2 // indirect
-	github.com/terraform-providers/terraform-provider-aws v1.54.0
+	github.com/terraform-providers/terraform-provider-aws v1.60.0
 	github.com/terraform-providers/terraform-provider-google v1.20.0
 	github.com/terraform-providers/terraform-provider-random v2.0.0+incompatible // indirect
 	github.com/terraform-providers/terraform-provider-template v1.0.0 // indirect
