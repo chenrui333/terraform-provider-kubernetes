@@ -28,7 +28,7 @@ require (
 	github.com/hashicorp/hcl2 v0.0.0-20181220012050-6631d7cd0a68 // indirect
 	github.com/hashicorp/hil v0.0.0-20170627220502-fa9f258a9250 // indirect
 	github.com/hashicorp/logutils v1.0.0 // indirect
-	github.com/hashicorp/terraform v0.11.11
+	github.com/hashicorp/terraform v0.12.10
 	github.com/hashicorp/vault v1.0.1 // indirect
 	github.com/imdario/mergo v0.3.6 // indirect
 	github.com/jen20/awspolicyequivalence v1.0.0 // indirect
